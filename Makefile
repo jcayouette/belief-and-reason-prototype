@@ -3,7 +3,6 @@
 
 SHELL = bash
 
-
 # BAR Productname and file replacement
 §PRODUCTNAME_BAR ?= 'BAR'
 FILENAME_BAR ?= bar
@@ -12,23 +11,19 @@ FILENAME_BAR ?= bar
 PDF_FONTS_DIR ?= branding/pdf-resources/fonts
 PDF_THEME_DIR ?= branding/pdf-resources/themes
 
-
-# PDF Publishing Themes, draft uses a draft watermark.
-# SUMA PDF Themes
+# BAR PDF Themes
 # Available Choices set variable
-# suse-draft
-# suse
+# bar-draft
+# bar
 
-PDF_THEME_SUMA ?= suse
+PDF_THEME_BAR ?= bar
 
 REVDATE ?= "$(shell date +'%B %d, %Y')"
 CURDIR ?= .
 
-
 # Build directories for TAR
 HTML_BUILD_DIR ?= build
 PDF_BUILD_DIR ?= build/pdf
-
 
 # BAR OBS Tarball Filenames
 HTML_OUTPUT_BAR ?= bar-docs_en
