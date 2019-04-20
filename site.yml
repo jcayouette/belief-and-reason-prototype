@@ -1,0 +1,42 @@
+# Doc site [title, and start page]
+site:
+  title: Belief and Reason
+  start_page: ROOT::index
+
+asciidoc:
+  attributes:
+
+    #bar: 'Belief and Reason'
+
+
+    # Asciidoc Configuration Attributes
+    linkattrs: true
+    sectlinks: true
+    icons: font
+    experimental: true
+
+
+content:
+  sources:
+
+  # Uncomment to build from your local git clone
+  - url: .
+
+  # Uncomment to build from the remote github repository.
+  #- url: todo: Add remote repo
+
+    # To build locally ensure you have your current local branch listed.
+    branches: [master]
+
+
+ui:
+  bundle:
+    # local git repo bundle for development
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  # Adds search bar, and items specific to selected UI
+  #supplemental_files: ./branding/supplemental-ui/suma
+output:
+  dir: ./build
+runtime:
+  cache_dir: ./.cache/antora

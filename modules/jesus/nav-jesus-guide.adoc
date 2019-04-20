@@ -1,0 +1,16 @@
+// Jesus Antora Navigation List
+ifndef::backend-pdf[]
+
+* Historicity of Jesus
+** xref:history-of-jesus-intro.adoc[Introduction]
+
+endif::[]
+
+
+// PDF Jesus Historicity
+//ifdef::backend-pdf[]
+//= Historicity of Jesus: Who was Jesus?
+//include::./branding/pdf-resources/entities.adoc[]
+//:toclevels: 3
+//:doctype: book
+

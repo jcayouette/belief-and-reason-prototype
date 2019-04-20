@@ -1,0 +1,8 @@
+//:bar: Belief and Reason
+:linkattrs:
+:sectlinks:
+:icons: font
+:experimental:
+:sourcedir: .
+:imagesdir: images
+:doctype: book
