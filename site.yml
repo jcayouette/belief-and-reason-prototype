@@ -1,7 +1,7 @@
 # Doc site [title, and start page]
 site:
   title: Belief and Reason
-  start_page: ROOT::index
+  start_page: bar::index
 
 asciidoc:
   attributes:
@@ -20,10 +20,10 @@ content:
   sources:
 
   # Uncomment to build from your local git clone
-  #- url: .
+  - url: .
 
   # Uncomment to build from the remote github repository.
-  - url: https://github.com/jcayouette/belief-and-reason
+  #- url: https://github.com/jcayouette/belief-and-reason
 
     # To build locally ensure you have your current local branch listed.
     branches: [master]
