@@ -6,7 +6,7 @@ site:
 asciidoc:
   attributes:
 
-    #bar: 'Belief and Reason'
+    bar: 'Belief and Reason'
 
 
     # Asciidoc Configuration Attributes

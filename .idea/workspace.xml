@@ -2,121 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="751aa7ee-4d04-4b33-848e-c91ea95e7e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/belief-and-reason.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/antora.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/entities.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/freeserif.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/freeserif_bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/freeserif_bold_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/freeserif_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/montserrat-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/montserrat-bold_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/montserrat-italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/montserrat-normal.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/mplus1mn-bold-ascii.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/mplus1mn-bold_italic-ascii.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/mplus1mn-italic-ascii.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/mplus1mn-regular-ascii-conums.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/mplus1p-regular-fallback.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/notoserif-bold-subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/notoserif-bold_italic-subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/notoserif-italic-subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/fonts/notoserif-regular-subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/draft.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/geekodots.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/smile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/suse_logo_reverse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/title_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/uyuni_background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/uyuni_background_vertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/images/uyuni_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/suse-draft-theme.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/suse-theme.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/uyuni-draft-theme.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/uyuni-theme.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/pdf-resources/themes/uyuni-theme.yml.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/css/site-extra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/css/vendor/docsearch.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/img/caution.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/img/important.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/img/note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/img/tip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/img/warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/js/vendor/docsearch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/partials/footer-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/partials/head-meta.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/partials/header-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma-draft/ui.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/css/site-extra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/css/vendor/docsearch.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/img/caution.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/img/important.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/img/note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/img/tip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/img/warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/js/vendor/docsearch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/partials/footer-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/partials/head-meta.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/partials/header-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/suma/ui.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/css/site-extra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/css/vendor/docsearch.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/img/caution.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/img/important.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/img/note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/img/tip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/img/warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/js/vendor/docsearch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/partials/footer-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/partials/head-meta.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/partials/header-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni-draft/ui.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/_headers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/css/site-extra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/css/vendor/docsearch.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/img/caution.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/img/important.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/img/note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/img/tip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/img/warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/js/vendor/docsearch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/partials/footer-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/partials/head-meta.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/partials/header-content.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/supplemental-ui/uyuni/ui.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branding/themes/suma-product-ui.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ROOT/_attributes.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ROOT/nav.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ROOT/pages/_partials/entities.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ROOT/pages/index-bar.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ROOT/pages/index.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/jesus/_attributes.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/history-of-jesus-intro.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/ROOT/pages/purpose.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/ancient-historians.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/emperor-trajan.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/extra-biblical-sources.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/flavius-josephus.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/government-officials.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/hadrian.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/historicity-of-jesus.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/jewish-sources.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/lucian-of-samosata.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/mara-bar-serapion.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/non-jewish-sources.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/pliny-the-younger.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/suetonius.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/jesus/pages/historicity/thallus.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/FETCH_HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/hooks/README.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/objects/pack/pack-cb08c9100635f07852a59f44c429175f424a2417.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/objects/pack/pack-cb08c9100635f07852a59f44c429175f424a2417.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ROOT/nav.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/nav.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ROOT/pages/index-bar.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ROOT/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/pages/index.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/jesus/pages/history-of-jesus-intro.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/jesus/pages/jesus-intro.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.yml" beforeDir="false" afterPath="$PROJECT_DIR$/site.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -133,37 +50,41 @@
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="990">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/ROOT/nav.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="28" selection-start-line="28" selection-end-line="28" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/antora.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <entry file="file://$PROJECT_DIR$/modules/ROOT/pages/index.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -176,16 +97,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc" />
-        <option value="$PROJECT_DIR$/modules/ROOT/pages/index.adoc" />
-        <option value="$PROJECT_DIR$/modules/ROOT/nav.adoc" />
         <option value="$PROJECT_DIR$/modules/jesus/pages/history-of-jesus-intro.adoc" />
         <option value="$PROJECT_DIR$/modules/ROOT/pages/index-bar.adoc" />
         <option value="$PROJECT_DIR$/bar-site.yml" />
         <option value="$PROJECT_DIR$/antora.yml" />
-        <option value="$PROJECT_DIR$/site.yml" />
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/modules/ROOT/pages/_partials/entities.adoc" />
+        <option value="$PROJECT_DIR$/site.yml" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/christ-history-menu.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/historicity-of-jesus.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/extra-biblical-sources.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/ancient-historians.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/suetonius.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/thallus.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/flavius-josephus.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/government-officials.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/pliny-the-younger.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/emperor-trajan.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/hadrian.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/non-jewish-sources.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/lucian-of-samosata.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/mara-bar-serapion.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/jewish-sources.adoc" />
+        <option value="$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc" />
+        <option value="$PROJECT_DIR$/modules/ROOT/pages/index.adoc" />
+        <option value="$PROJECT_DIR$/modules/ROOT/nav.adoc" />
+        <option value="$PROJECT_DIR$/modules/ROOT/pages/purpose.adoc" />
       </list>
     </option>
   </component>
@@ -218,6 +156,19 @@
               <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
               <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="jesus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
+              <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="jesus" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
+              <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="ROOT" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,14 +177,6 @@
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="ROOT" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
-              <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ROOT" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="_partials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,18 +212,19 @@
       <updated>1555717263020</updated>
       <workItem from="1555717265340" duration="244000" />
       <workItem from="1555717519835" duration="19000" />
-      <workItem from="1555717548705" duration="4765000" />
+      <workItem from="1555717548705" duration="5075000" />
+      <workItem from="1555747046157" duration="2009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5028000" />
+    <option name="totallyTimeSpent" value="7347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-854" width="2560" height="1600" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13661636" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13741064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,27 +238,17 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="make" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/ROOT/pages/index.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/history-of-jesus-intro.adoc">
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/jesus-intro.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -334,23 +268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/ROOT/pages/_partials/entities.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -361,20 +278,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ROOT/nav.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/antora.yml">
+    <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="990">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
@@ -382,6 +289,198 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/antora.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/historicity-of-jesus.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="22" selection-start-column="22" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/extra-biblical-sources.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/ancient-historians.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/thallus.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/suetonius.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="11" selection-start-column="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/flavius-josephus.adoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/government-officials.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="22" selection-start-column="22" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/pliny-the-younger.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="19" selection-start-column="19" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/emperor-trajan.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="16" selection-start-column="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/hadrian.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/non-jewish-sources.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/lucian-of-samosata.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/mara-bar-serapion.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/jewish-sources.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="16" selection-start-column="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ROOT/pages/index.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="28" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ROOT/pages/purpose.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ROOT/nav.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
