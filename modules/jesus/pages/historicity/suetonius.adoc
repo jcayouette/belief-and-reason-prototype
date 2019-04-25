@@ -1,1 +1,5 @@
 = Suetonius
+
+.Suetonius , Frachet, CC BY-SA 3.0
+image::suetonius.jpg[caption="Figure 1: ", 400, 300]
+

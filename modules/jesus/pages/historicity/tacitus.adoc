@@ -7,7 +7,7 @@ image::wien-parlament-tacitus.jpg[Tacitus, 400,300, role="left"]
 __Tacitus__ was a Roman historian and senator. In his final work the **Annals** (ca. AD 116) he referred to Christ, execution by Pontius PIlate and mentioned the early presence of Christians in Rome.
 
 == Documented Event
-In the passage of interest __Tacitus__ documented the fire that burned much of the city in AD 64 under the rule of the Roman Emperor **Nero**.  This section of writing is considered to be one of the earliest non-Christian references to the the origins of Christianity, it verifies the  accounts of Christs execution in the canonical gospels, and confirms the persecution of Christians in 1st-century Rome.
+In the passage of interest __Tacitus__ documented the fire that burned much of the city in AD 64 under the rule of the Roman Emperor **Nero**.  This passage of writing is considered to be one of the earliest non-Christian references to the the origins of Christianity, it verifies the  accounts of Christs execution in the canonical gospels, and confirms the persecution of Christians in 1st-century Rome.
 
 [IMPORTANT]
 ====
@@ -24,10 +24,12 @@ Historian **Ronald Mellor** has stated that the Annals is "__Tacitus's crowning 
 
 English:: **Consequently, to get rid of the report, Nero fastened the guilt and inflicted the most exquisite tortures** on a class hated for their abominations, called **Christians** by the populace. **Christus**, from whom the name had its origin, **suffered the extreme penalty** during the **reign of Tiberius** at the hands of one of our procurators, **Pontius Pilatus**, and **a most mischievous superstition**, **thus checked for the moment, again broke out not only in Judæa, the first source of the evil**, but even in Rome, where all things hideous and shameful from every part of the world find their centre and become popular. Accordingly, an arrest was first made of all who pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the crime of firing the city, as of hatred against mankind.
 
-Latin:: ergo abolendo rumori Nero subdidit reos et quaesitissimis poenis adfecit, quos per flagitia invisos vulgus Chrestianos appellabat. auctor nominis eius Christus Tibero imperitante per procuratorem Pontium Pilatum supplicio adfectus erat; repressaque in praesens exitiabilis superstitio rursum erumpebat, non modo per Iudaeam, originem eius mali, sed per urbem etiam, quo cuncta undique atrocia aut pudenda confluunt celebranturque. igitur primum correpti qui fatebantur, deinde indicio eorum multitudo ingens haud proinde in crimine incendii quam odio humani generis convicti sunt.
+__Emphasise added__
 
 == The Torture of Christians
 
 After the above passage Tacitus describes the torture of Christians under Nero for their "crimes" "of "hatred against mankind".
 
 English:: Mockery of every sort was added to their deaths. Covered with the skins of beasts, they were torn by dogs and perished, or **were nailed to crosses**, or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight had expired. Nero offered his gardens for the spectacle, and was exhibiting a show in the circus, while he mingled with the people in the dress of a charioteer or stood aloft on a car. **Hence, even for criminals who deserved extreme and exemplary punishment, there arose a feeling of compassion; for it was not, as it seemed, for the public good, but to glut one man's cruelty, that they were being destroyed**.
+
+__Emphasise added__
