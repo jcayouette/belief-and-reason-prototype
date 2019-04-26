@@ -1,7 +1,13 @@
 = Tacitus: (c. 56 - c. 120 AD)
 
+//TODO Add SOURCES! Note to viewers some content on this page is from various sources. These sources will be listed in an upcoming PR.
+
 image::wien-parlament-tacitus.jpg[Tacitus, 400,300, role="left"]
 
+[IMPORTANT]
+====
+DRAFT COPIES! Sources for content on this page have not yet been added.
+====
 
 == Introduction
 __Tacitus__ was a Roman historian and senator. In his final work the **Annals** (ca. AD 116) he referred to Christ, execution by Pontius PIlate and mentioned the early presence of Christians in Rome.
