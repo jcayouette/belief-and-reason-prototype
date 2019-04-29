@@ -4,7 +4,7 @@
 SHELL = bash
 
 # BAR Productname and file replacement
-§PRODUCTNAME_BAR ?= 'BAR'
+PRODUCTNAME_BAR ?= 'BAR'
 FILENAME_BAR ?= bar
 
 # PDF Resource Locations
@@ -79,19 +79,33 @@ pdf-all: pdf-all ## Generate PDF versions of all BAR books
 
 
 
-.PHONY: pdf-jesus-bar
-pdf-install-suma: ## Generate PDF version of the bar Jesus Guide
+.PHONY: pdf-jesus
+pdf-jesus: ## Generate PDF version of the bar Jesus Guide
 	asciidoctor-pdf \
 		-a pdf-stylesdir=$(PDF_THEME_DIR)/ \
-		-a pdf-style=$(PDF_THEME_SUMA) \
+		-a pdf-style=$(PDF_THEME_BAR) \
 		-a pdf-fontsdir=$(PDF_FONTS_DIR) \
 		-a productname=$(PRODUCTNAME_BAR) \
-		-a examplesdir=modules/installation/examples \
-		-a imagesdir=modules/installation/assets/images \
+		-a examplesdir=modules/jesus/examples \
+		-a imagesdir=modules/jesus/assets/images \
 		-a revdate=$(REVDATE) \
 		--base-dir . \
-		--out-file $(PDF_BUILD_DIR)/$(FILENAME_BAR)_installation_guide.pdf \
-		modules/installation/nav-installation-guide.adoc
+		--out-file $(PDF_BUILD_DIR)/$(FILENAME_BAR)_historicity_of_jesus.pdf \
+		modules/jesus/nav-jesus-guide.adoc
+
+.PHONY: pdf-root
+pdf-root: ## Generate PDF version of the bar root book
+	asciidoctor-pdf \
+		-a pdf-stylesdir=$(PDF_THEME_DIR)/ \
+		-a pdf-style=$(PDF_THEME_BAR) \
+		-a pdf-fontsdir=$(PDF_FONTS_DIR) \
+		-a productname=$(PRODUCTNAME_BAR) \
+		-a examplesdir=modules/ROOT/examples \
+		-a imagesdir=modules/ROOT/assets/images \
+		-a revdate=$(REVDATE) \
+		--base-dir . \
+		--out-file $(PDF_BUILD_DIR)/$(FILENAME_BAR)_ROOT_book.pdf \
+		modules/ROOT/nav.adoc
 
 
 

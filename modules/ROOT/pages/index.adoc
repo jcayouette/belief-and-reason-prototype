@@ -1,1 +1,2 @@
-= About
+[[index-welcome-bar]]
+= Welcome to BAR

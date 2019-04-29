@@ -1,2 +1,19 @@
+ifndef::backend-pdf[]
+
 * xref:index.adoc[Welcome]
 * xref:purpose.adoc[Purpose]
+
+endif::[]
+
+// PDF ROOT Test
+ifdef::backend-pdf[]
+= ROOT Book Test
+include::./branding/pdf-resources/entities.adoc[]
+:toclevels: 3
+:doctype: book
+
+include::modules/ROOT/pages/index.adoc[leveloffset=+1]
+
+include::modules/ROOT/pages/purpose.adoc[leveloffset=+1]
+
+endif::[]

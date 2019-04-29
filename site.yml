@@ -7,7 +7,7 @@ asciidoc:
   attributes:
 
     bar: 'Belief and Reason'
-
+    goto: 'Back to: '
 
     # Asciidoc Configuration Attributes
     linkattrs: true

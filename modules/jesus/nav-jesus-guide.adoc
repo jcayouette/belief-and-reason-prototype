@@ -20,9 +20,44 @@ endif::[]
 
 
 // PDF Jesus Historicity
-//ifdef::backend-pdf[]
-//= Historicity of Jesus: Who was Jesus?
-//include::./branding/pdf-resources/entities.adoc[]
-//:toclevels: 3
-//:doctype: book
+ifdef::backend-pdf[]
+= Historicity of Jesus: Who was Jesus?
+include::./branding/pdf-resources/entities.adoc[]
+:toclevels: 3
+:doctype: book
 
+include::modules/jesus/pages/historicity/historicity-of-jesus.adoc[leveloffset=+0]
+
+include::modules/jesus/pages/historicity/extra-biblical-sources.adoc[leveloffset=+1]
+
+// Ancient Historians
+include::modules/jesus/pages/historicity/ancient-historians.adoc[leveloffset=+2]
+
+include::modules/jesus/pages/historicity/tacitus.adoc[leveloffset=+3]
+
+include::modules/jesus/pages/historicity/suetonius.adoc[leveloffset=+3]
+
+include::modules/jesus/pages/historicity/flavius-josephus.adoc[leveloffset=+3]
+
+include::modules/jesus/pages/historicity/thallus.adoc[leveloffset=+3]
+
+// Government Officials
+include::modules/jesus/pages/historicity/government-officials.adoc[leveloffset=+2]
+
+include::modules/jesus/pages/historicity/pliny-the-younger.adoc[leveloffset=+3]
+
+include::modules/jesus/pages/historicity/emperor-trajan.adoc[leveloffset=+3]
+
+include::modules/jesus/pages/historicity/hadrian.adoc[leveloffset=+3]
+
+// Gentile Sources
+include::modules/jesus/pages/historicity/non-jewish-sources.adoc[leveloffset=+2]
+
+include::modules/jesus/pages/historicity/lucian-of-samosata.adoc[leveloffset=+3]
+
+include::modules/jesus/pages/historicity/mara-bar-serapion.adoc[leveloffset=+3]
+
+// Jewish Sources
+include::modules/jesus/pages/historicity/jewish-sources.adoc[leveloffset=+2]
+
+endif::[]

@@ -8,3 +8,5 @@
 :toc: left
 :listing-caption: Listing
 :doctype: book
+:root-uri: ROOT Guide
+:goto: Back to:
