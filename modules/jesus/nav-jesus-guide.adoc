@@ -3,19 +3,34 @@ ifndef::backend-pdf[]
 
 * xref:historicity/historicity-of-jesus.adoc[Historicity of Jesus]
 ** xref:historicity/extra-biblical-sources.adoc[Extra Biblical Sources]
+// Ancient Historians
 *** xref:historicity/ancient-historians.adoc[Ancient Historians]
 **** xref:historicity/tacitus.adoc[Tacitus]
 **** xref:historicity/suetonius.adoc[Suetonius]
 **** xref:historicity/flavius-josephus.adoc[Flavius Josephus]
 **** xref:historicity/thallus.adoc[Thallus]
+// Government Officials
 *** xref:historicity/government-officials.adoc[Government Officials]
 **** xref:historicity/pliny-the-younger.adoc[Pliny the Younger]
 **** xref:historicity/emperor-trajan.adoc[Emperor Trajan]
 **** xref:historicity/hadrian.adoc[Hadrian]
+// Gentile Sources (Non Jewish)
 *** xref:historicity/non-jewish-sources.adoc[Gentile Sources]
 **** xref:historicity/lucian-of-samosata.adoc[Lucian of Samosata]
 **** xref:historicity/mara-bar-serapion.adoc[Mara bar-Serapion]
 *** xref:historicity/jewish-sources.adoc[Jewish Sources]
+// Apostolic Fathers (Who knew the apostles firsthand)
+** xref:historicity/apostolic-fathers-introduction.adoc[The Apostolic Fathers]
+*** xref:historicity/af-clement.adoc[Clement of Rome]
+*** xref:historicity/af-ignatius-of-antioch.adoc[Ignatius of Antioch]
+*** xref:historicity/af-polycarp.adoc[Polycarp of Smyrna]
+// Early Church Fathers
+** xref:historicity/church-fathers.introduction.adoc[Early Church Fathers]
+*** xref:historicity/cf-jerome.adoc[Jerome (ca. 347-419)]
+// Early Christian Writings and Treatise
+** xref:historicity/writings-introduction.adoc[Early Writings and Treatise]
+*** xref:historicity/writings-didache.adoc[Didache (Teaching)]
+*** xref:historicity/writings-shepherd-of-hermas.adoc[Shepherd of Hermas]
 endif::[]
 
 
@@ -59,5 +74,12 @@ include::modules/jesus/pages/historicity/mara-bar-serapion.adoc[leveloffset=+3]
 
 // Jewish Sources
 include::modules/jesus/pages/historicity/jewish-sources.adoc[leveloffset=+2]
+
+// Early Church Fathers
+include::modules/jesus/pages/historicity/apostolic-fathers-introduction.adoc[leveloffset=+1]
+
+include::modules/jesus/pages/historicity/af-clement.adoc[leveloffset=+2]
+
+include::modules/jesus/pages/historicity/af-polycarp.adoc[leveloffset=+2]
 
 endif::[]

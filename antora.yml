@@ -10,3 +10,6 @@ nav:
   # Introduction to the Historicity of Jesus
   - modules/jesus/nav-jesus-guide.adoc
 
+  # Book Reviews
+  - modules/book-reviews/nav-book-reviews.adoc
+

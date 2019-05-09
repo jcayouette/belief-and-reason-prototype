@@ -1,0 +1,14 @@
+// Book Reviews Navigation List
+ifndef::backend-pdf[]
+* xref:intro/br-introduction.adoc[Book Reviews]
+** Sapiens
+*** xref:sapiens/sapiens-menu.adoc[Sapiens Introduciton]
+*** xref:sapiens/sapiens-assumptions.adoc[Assumptions]
+*** xref:sapiens/sapiens-typical-ape-man-story.adoc[Typical Ape Man Story]
+*** xref:sapiens/sapiens-big-brains-upright.adoc[Walking Upright and Large Brains]
+*** xref:sapiens/sapiens-out-of-africa.adoc[Out of Africa?]
+*** xref:sapiens/sapiens-tree-of-knowledge-mutation.adoc[Tree of Knowledge?]
+*** xref:sapiens/sapiens-evolutionary-psychology.adoc[Evolutionary Psychology]
+*** xref:sapiens/sapiens-arrival-in-america.adoc[Arrival in America]
+*** xref:sapiens/sapiens-agricultural-revolution.adoc[Agricultural Revolution]
+endif::[]

@@ -1,0 +1,17 @@
+// Book Reviews Navigation List
+ifndef::backend-pdf[]
+
+* xref:logical-fallacy:lf-introduction.adoc[Logical Fallacies]
+** xref:logical-fallacy:lf-ad-hominem.adoc[Ad Hominem]
+** xref:logical-fallacy:lf-straw-men.adoc[Straw Men]
+** xref:logical-fallacy:lf-appeal-to-ignorance.adoc[Appeal to Ignorance]
+** xref:logical-fallacy:lf-false-dilemma.adoc[False Dilemma]
+** xref:logical-fallacy:lf-slippery-slope.adoc[Slippery Slope]
+** xref:logical-fallacy:lf-circular-argument.adoc[Circular Argument]
+** xref:logical-fallacy:lf-hasty-generalization.adoc[Hasty Generalization]
+** xref:logical-fallacy:lf-red-herring.adoc[Red Herring]
+** xref:logical-fallacy:lf-tu-quoque.adoc[Tu Quoque]
+** xref:logical-fallacy:lf-causal-fallacy.adoc[Causal Fallacy]
+** xref:logical-fallacy:lf-elephant-hurling.adoc[Elephant Hurling]
+
+endif::[]

@@ -3,13 +3,55 @@
 .Suetonius , Frachet, CC BY-SA 3.0
 image::suetonius.jpg[caption="Figure 1: ", 400, 300]
 
-**Gaius Suetonius Tranquillus** was a Roman historian who wrote about Christians and refers to Jesus Christ in the __Lives of the Twelve Caesars__.
+[#intro]
+== Introduction
 
-ifndef::backend-pdf[]
-xref:reference:systems/all-systems.adoc[All Systems]
-endif::[]
+**Gaius Suetonius Tranquillus** was a Roman historian. Suetonius wrote about Christians and **most likely** referred to Jesus Christ in the __Lives of the Twelve Caesars__. ^<<#1>>^ ^<<#2>>^ ^<<#3>>^
 
-ifdef::backend-pdf[]
-For more information see:
-link:[Reference -> Systems -> systems.adoc#all-systems]
-endif::[]
+=== Quote 1
+
+.**Lives of the Caesars, Page 184**
+[quote, Suetonius on Christ]
+____
+The Jews he expelled from Rome, since they were constantly in rebellion, at the instigation of Chrestus.
+____
+
+=== Quote 2
+
+.**Lives of the Caesars, Page 203**
+[quote, Suetonius on Christians]
+____
+Punishments were imposed on the Christians—adherents of a new
+and dangerous superstition
+____
+
+It should be noted that in the first quote, scholars argue about whether or not this was a reference to Christ. The argument is in favor of it being Christ for several reasons.
+
+
+
+== References
+
+
+=== Scholarly Sources
+
+[#1]
+__Suetonius, Catharine Edwards. Lives of the Caesars (2001) ISBN 0192832719 pp. 184, 203__ <<#intro, Return>>
+
+[#2]
+__John Dominic Crossan, Birth of Christianity (1999) ISBN 0567086682 p. 3__ <<#intro, Return>>
+
+[#3]
+__Van Voorst, Jesus, 2000. pp. 29-30__ <<#intro, Return>>
+
+
+
+=== Source Credentials
+
+link:https://en.wikipedia.org/wiki/Catharine_Edwards_(historian)[Catharine Harmon Edwards, University of Cambridge, Professor of Classics and Ancient History]
+
+
+
+=== General References (Secondary Sources)
+
+[#wiki]
+link:https://en.wikipedia.org/wiki/Suetonius_on_Christians[]
