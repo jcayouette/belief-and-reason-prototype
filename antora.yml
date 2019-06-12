@@ -11,5 +11,5 @@ nav:
   - modules/jesus/nav-jesus-guide.adoc
 
   # Book Reviews
-  - modules/book-reviews/nav-book-reviews.adoc
+  #- modules/book-reviews/nav-book-reviews.adoc
 
