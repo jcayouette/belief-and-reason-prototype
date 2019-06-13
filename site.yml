@@ -2,6 +2,7 @@
 site:
   title: Belief and Reason
   start_page: bar::index
+  url: https://jcayouette.github.io/belief-and-reason/
 
 asciidoc:
   attributes:
@@ -35,7 +36,7 @@ ui:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
   # Adds search bar, and items specific to selected UI
-  #supplemental_files: ./branding/supplemental-ui/suma
+  supplemental_files: ./branding/supplemental-ui/bar
 output:
   dir: ./build
 runtime:
