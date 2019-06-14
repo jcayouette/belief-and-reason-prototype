@@ -82,4 +82,11 @@ include::modules/jesus/pages/historicity/af-clement.adoc[leveloffset=+2]
 
 include::modules/jesus/pages/historicity/af-polycarp.adoc[leveloffset=+2]
 
+// Early Writings and Teachings
+include::modules/jesus/pages/historicity/writings-introduction.adoc[leveloffset=+1]
+
+include::modules/jesus/pages/historicity/writings-didache.adoc[leveloffset=+2]
+
+include::modules/jesus/pages/historicity/writings-shepherd-of-hermas.adoc[leveloffset=+2]
+
 endif::[]
