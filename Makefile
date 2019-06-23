@@ -93,6 +93,20 @@ pdf-jesus: ## Generate PDF version of the bar Jesus Guide
 		--out-file $(PDF_BUILD_DIR)/$(FILENAME_BAR)_historicity_of_jesus.pdf \
 		modules/jesus/nav-jesus-guide.adoc
 
+.PHONY: pdf-new-atheism
+pdf-new-atheism: ## Generate PDF version of the bar New Atheism Guide
+	asciidoctor-pdf \
+		-a pdf-stylesdir=$(PDF_THEME_DIR)/ \
+		-a pdf-style=$(PDF_THEME_BAR) \
+		-a pdf-fontsdir=$(PDF_FONTS_DIR) \
+		-a productname=$(PRODUCTNAME_BAR) \
+		-a examplesdir=modules/new-athesism/examples \
+		-a imagesdir=modules/new-atheism/assets/images \
+		-a revdate=$(REVDATE) \
+		--base-dir . \
+		--out-file $(PDF_BUILD_DIR)/$(FILENAME_BAR)_new-atheism.pdf \
+		modules/new-atheism/nav-new-atheism.adoc
+
 .PHONY: pdf-root
 pdf-root: ## Generate PDF version of the bar root book
 	asciidoctor-pdf \

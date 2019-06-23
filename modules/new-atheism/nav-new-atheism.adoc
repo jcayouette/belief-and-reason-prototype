@@ -1,0 +1,38 @@
+// New Atheists Navigation List
+ifndef::backend-pdf[]
+
+* xref:na-introduction.adoc[New Atheism]
+** xref:na-reason-science-vs-god-and-faith.adoc[ God & Faith vs Reason & Science]
+** xref:na-is-religion-poisonous.adoc[Is Religion is Poisonous?]
+** xref:na-is-atheism-poisonous.adoc[Is Atheism is Poisonous?]
+** xref:na-goodness-without-god.adoc[Can we be Good without God?]
+** xref:na-god-is-a-despot.adoc[Is the God of the Bible a Despot]
+** xref:na-miracles-are-fantasy.adoc[Are Miracles Pure Fantasy?]
+
+endif::[]
+
+
+
+// PDF Jesus Historicity
+ifdef::backend-pdf[]
+= New Atheism
+include::./branding/pdf-resources/entities.adoc[]
+:toclevels: 3
+:doctype: book
+
+// Introduction New Atheists
+include::modules/new-atheism/pages/na-introduction.adoc[leveloffset=+1]
+
+include::modules/new-atheism/pages/na-reason-science-vs-god-and-faith.adoc[leveloffset=+2]
+
+include::modules/new-atheism/pages/na-religion-is-poison.adoc[leveloffset=+2]
+
+include::modules/new-atheism/pages/na-atheism-is-poison.adoc[leveloffset=+2]
+
+include::modules/new-atheism/pages/na-goodness-without-god.adoc[leveloffset=+2]
+
+include::modules/new-atheism/pages/na-god-is-a-despot.adoc[leveloffset=+2]
+
+include::modules/new-atheism/pages/na-miracles-are-fantasy.adoc[leveloffset=+2]
+
+endif::[]
