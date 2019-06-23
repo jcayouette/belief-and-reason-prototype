@@ -13,5 +13,6 @@ ifndef::backend-pdf[]
 ** xref:logical-fallacy:lf-tu-quoque.adoc[Tu Quoque]
 ** xref:logical-fallacy:lf-causal-fallacy.adoc[Causal Fallacy]
 ** xref:logical-fallacy:lf-elephant-hurling.adoc[Elephant Hurling]
+** xref:logical-fallacy:lf-affirming-the-consequent.adoc[Affirming the Consequent]
 
 endif::[]
