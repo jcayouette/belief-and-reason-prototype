@@ -60,7 +60,7 @@ clean: ## Remove build artifacts from output directory (Antora and PDF)
 
 .PHONY: bar
 bar: clean ## Build the BAR Antora static site (See README for more information)
-	antora site.yml
+	docker run -u 502 -v `pwd`:/antora --rm -t antora/antora --cache-dir=./.cache/antora site.yml
 
 
 
