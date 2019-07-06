@@ -1,13 +1,14 @@
 // New Atheists Navigation List
 ifndef::backend-pdf[]
 
-* xref:na-introduction.adoc[New Atheism]
-** xref:na-reason-science-vs-god-and-faith.adoc[ God, Faith, Reason and Science]
-** xref:na-is-religion-poisonous.adoc[Is Religion Poisonous?]
-** xref:na-is-atheism-poisonous.adoc[Is Atheism Poisonous?]
-** xref:na-goodness-without-god.adoc[Can we be Good without God?]
-** xref:na-is-the-god-of-the-bible-a-despot.adoc[Is the God of the Bible a Despot]
-** xref:na-are-miracles-pure-fantasy.adoc[Are Miracles Pure Fantasy?]
+* xref:na-introduction.adoc[Atheism]
+** xref:na-john-lennox-gunning-for-god.adoc[Gunning for God]
+*** xref:na-reason-science-vs-god-and-faith.adoc[ God, Faith, Reason and Science]
+*** xref:na-is-religion-poisonous.adoc[Is Religion Poisonous?]
+*** xref:na-is-atheism-poisonous.adoc[Is Atheism Poisonous?]
+*** xref:na-goodness-without-god.adoc[Can we be Good without God?]
+*** xref:na-is-the-god-of-the-bible-a-despot.adoc[Is the God of the Bible a Despot]
+*** xref:na-are-miracles-pure-fantasy.adoc[Are Miracles Pure Fantasy?]
 
 endif::[]
 

@@ -1,38 +1,50 @@
 = Suetonius  (c. AD 69 – c. AD 122)
 
 .Suetonius , Frachet, CC BY-SA 3.0
-image::suetonius.jpg[caption="Figure 1: ", 400, 300]
+image::suetonius.jpg[caption="Figure 1: ", 300,200, role=center]
 
 [#intro]
 == Introduction
 
 **Gaius Suetonius Tranquillus** was a Roman historian. Suetonius wrote about Christians and **most likely** referred to Jesus Christ in the __Lives of the Twelve Caesars__. ^<<#1>>^ ^<<#2>>^ ^<<#3>>^
 
-=== Quote 1
+== Documented Events
 
-.**Lives of the Caesars, Page 184**
-[quote, Suetonius on Christ]
+
+[quote, Suetonius: Lives of the Caesars: Page 184]
 ____
 The Jews he expelled from Rome, since they were constantly in rebellion, at the instigation of Chrestus.
 ____
 
-=== Quote 2
+In this first quote some critics claim that we cannot know for sure that it refers to Christ. I disagree for several logical reasons. Why else would the Jews be in rebellion?
+If not for the very ideas they had recently crucified Christ for?
 
-.**Lives of the Caesars, Page 203**
-[quote, Suetonius on Christians]
+
+[quote, Suetonius: Lives of the Caesars: Page 203]
 ____
 Punishments were imposed on the Christians—adherents of a new
 and dangerous superstition
 ____
 
-It should be noted that in the first quote, scholars argue about whether or not this was a reference to Christ. The argument is in favor of it being Christ for several reasons.
+Punishments were placed on Christian for their new ideas.
+The Christians were certainly preaching Christ and obeying His command to go into the entire world to save the lost.
+The traditional Jews in Rome likely rebelled against such teaching which created an uproar.
+The Romans naturally did not want to deal with this sort of behavior.
+The Roman solution to keep the peace?
+Expel the Jews from Rome(Who were obviously not keeping the peace), and punish the "instigators" Christians in this case.
+
+[NOTE]
+====
+We can probably read further into Roman judgement in this case.
+The Jews had created the public issue of not keeping the peace.
+The Christians believed in a dangerous superstition because the Ceasars were considered divine.
+Christ had come to earth as God in the flesh.
+The Christian ideas of the resurrection flew in the face of the Roman Gods and Godesses.
+====
 
 
 
 == References
-
-
-=== Scholarly Sources
 
 [#1]
 __Suetonius, Catharine Edwards. Lives of the Caesars (2001) ISBN 0192832719 pp. 184, 203__ <<#intro, Return>>
@@ -42,16 +54,3 @@ __John Dominic Crossan, Birth of Christianity (1999) ISBN 0567086682 p. 3__ <<#i
 
 [#3]
 __Van Voorst, Jesus, 2000. pp. 29-30__ <<#intro, Return>>
-
-
-
-=== Source Credentials
-
-link:https://en.wikipedia.org/wiki/Catharine_Edwards_(historian)[Catharine Harmon Edwards, University of Cambridge, Professor of Classics and Ancient History]
-
-
-
-=== General References (Secondary Sources)
-
-[#wiki]
-link:https://en.wikipedia.org/wiki/Suetonius_on_Christians[]
