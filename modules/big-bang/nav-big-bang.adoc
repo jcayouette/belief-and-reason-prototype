@@ -3,6 +3,4 @@ ifndef::backend-pdf[]
 * xref:big-bang-introduction.adoc[Big Bang]
 ** xref:dismantling-the-big-bang.adoc[Dismantling the Big Bang]
 
-
-
 endif::[]
