@@ -2,15 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aefcf7f1-0bb9-4ee0-af18-514be3f88bad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/big-bang/pages/big-bang-introduction.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-whats-new-atheism.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/big-bang/nav-big-bang.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/big-bang/nav-big-bang.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/big-bang/big-bang-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/big-bang/big-bang-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/big-bang/dismantling-the-big-bang.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/big-bang/dismantling-the-big-bang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/intro/br-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/intro/br-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-agricultural-revolution.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-agricultural-revolution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-arrival-in-america.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-arrival-in-america.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-assumptions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-assumptions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-big-brains-upright.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-big-brains-upright.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-evolutionary-psychology.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-evolutionary-psychology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-out-of-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-out-of-africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-tree-of-knowledge-mutation.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-tree-of-knowledge-mutation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-typical-ape-man-story.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-typical-ape-man-story.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/af-clement.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/af-clement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/af-ignatius-of-antioch.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/af-ignatius-of-antioch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/af-polycarp.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/af-polycarp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/ancient-historians.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/ancient-historians.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/apostolic-fathers-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/apostolic-fathers-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/cf-jerome.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/cf-jerome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/church-fathers.introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/church-fathers.introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/emperor-trajan.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/emperor-trajan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/extra-biblical-sources.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/extra-biblical-sources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/flavius-josephus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/flavius-josephus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/government-officials.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/government-officials.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/hadrian.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/hadrian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/historicity-of-jesus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/historicity-of-jesus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/jewish-sources.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/jewish-sources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/lucian-of-samosata.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/lucian-of-samosata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/mara-bar-serapion.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/mara-bar-serapion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/non-jewish-sources.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/non-jewish-sources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/pliny-the-younger.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/pliny-the-younger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/suetonius.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/suetonius.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/tacitus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/tacitus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/thallus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/thallus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-didache.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-didache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-shepherd-of-hermas.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-shepherd-of-hermas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/jesus/jesus-intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/jesus-intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-ad-hominem.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-ad-hominem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-affirming-the-consequent.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-affirming-the-consequent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-appeal-to-ignorance.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-appeal-to-ignorance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-causal-fallacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-causal-fallacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-circular-argument.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-circular-argument.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-elephant-hurling.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-elephant-hurling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-false-dilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-false-dilemma.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-hasty-generalization.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-hasty-generalization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-red-herring.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-red-herring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-slippery-slope.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-slippery-slope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-straw-men.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-straw-men.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-tu-quoque.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-tu-quoque.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-are-miracles-pure-fantasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-are-miracles-pure-fantasy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-goodness-without-god.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-goodness-without-god.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-atheism-poisonous.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-atheism-poisonous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-religion-poisonous.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-religion-poisonous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-the-god-of-the-bible-a-despot.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-the-god-of-the-bible-a-despot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-john-lennox-gunning-for-god.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-john-lennox-gunning-for-god.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-reason-science-vs-god-and-faith.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-reason-science-vs-god-and-faith.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-whats-new-atheism.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-whats-new-atheism.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-why-the-aggression.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-why-the-aggression.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/purpose.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/purpose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/new-atheism/pages/na-introduction.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-introduction.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/new-atheism/pages/na-reason-science-vs-god-and-faith.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-reason-science-vs-god-and-faith.adoc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,35 +81,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc">
+        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" selection-start-line="34" selection-end-line="34" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/big-bang/nav-big-bang.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-reason-science-vs-god-and-faith.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <first_editor relative-caret-position="450">
+                <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,11 +93,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc">
+        <entry file="file://$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="10" column="646" selection-start-line="10" selection-start-column="646" selection-end-line="10" selection-end-column="646" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -72,10 +105,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc">
+        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
+              <first_editor relative-caret-position="105">
                 <caret line="2" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
@@ -84,11 +117,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc">
+        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="474">
-                <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -127,10 +160,11 @@
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc" />
         <option value="$PROJECT_DIR$/modules/big-bang/nav-big-bang.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-reason-science-vs-god-and-faith.adoc" />
-        <option value="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-whats-new-atheism.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-introduction.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc" />
+        <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc" />
+        <option value="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" />
       </list>
     </option>
   </component>
@@ -226,12 +260,12 @@
       <workItem from="1562279522201" duration="18000" />
       <workItem from="1562279558748" duration="36000" />
       <workItem from="1562279628729" duration="269000" />
-      <workItem from="1562303974184" duration="18806000" />
+      <workItem from="1562303974184" duration="19493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30673000" />
+    <option name="totallyTimeSpent" value="31360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="961" extended-state="0" />
@@ -391,31 +425,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="474">
-            <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/extra-biblical-sources.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
             <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" selection-start-line="34" selection-end-line="34" />
           </first_editor>
           <second_editor />
         </state>
@@ -455,31 +469,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="30" selection-start-column="30" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-whats-new-atheism.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="495">
             <caret line="26" selection-start-line="26" selection-end-line="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-introduction.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -495,26 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/big-bang/nav-big-bang.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-reason-science-vs-god-and-faith.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -525,11 +499,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/big-bang/nav-big-bang.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/nav-jesus-guide.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" selection-start-line="34" selection-end-line="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="10" column="646" selection-start-line="10" selection-start-column="646" selection-end-line="10" selection-end-column="646" />
+          <first_editor relative-caret-position="450">
+            <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="534">
+            <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-introduction.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

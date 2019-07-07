@@ -2,9 +2,10 @@
 ifndef::backend-pdf[]
 
 * xref:na-introduction.adoc[New Atheism]
-** xref:na-whats-new-atheism.adoc[What's New About New Atheism?]
-** xref:na-why-the-aggression.adoc[Why the Aggression?]
 ** xref:na-john-lennox-gunning-for-god.adoc[Gunning for God]
+*** xref:na-gunning-for-god-introduction.adoc[Introduction]
+**** xref:na-whats-new-atheism.adoc[What's New About New Atheism?]
+**** xref:na-why-the-aggression.adoc[Why the Aggression?]
 *** xref:na-reason-science-vs-god-and-faith.adoc[ God, Faith, Reason and Science]
 *** xref:na-is-religion-poisonous.adoc[Is Religion Poisonous?]
 *** xref:na-is-atheism-poisonous.adoc[Is Atheism Poisonous?]
