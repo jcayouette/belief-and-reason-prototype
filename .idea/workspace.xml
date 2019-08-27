@@ -1,89 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefcf7f1-0bb9-4ee0-af18-514be3f88bad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/branding/ui-bundle.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/objects/pack/pack-2aa7796b44a9f29c494dda44b583e3ac5d9d09f5.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/objects/pack/pack-2aa7796b44a9f29c494dda44b583e3ac5d9d09f5.pack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/heads/master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/gh-pages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/shallow" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/antora/ui/88c6429e9c29a675bbb4686e403e1870e69cbccd.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/_/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/_/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/_/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/_/js/site.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/_/js/vendor/highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/_/js/vendor/highlight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/big-bang/big-bang-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/big-bang/big-bang-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/big-bang/dismantling-the-big-bang.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/big-bang/dismantling-the-big-bang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/intro/br-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/intro/br-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-agricultural-revolution.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-agricultural-revolution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-arrival-in-america.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-arrival-in-america.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-assumptions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-assumptions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-big-brains-upright.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-big-brains-upright.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-evolutionary-psychology.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-evolutionary-psychology.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-out-of-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-out-of-africa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-tree-of-knowledge-mutation.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-tree-of-knowledge-mutation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-typical-ape-man-story.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/sapiens/sapiens-typical-ape-man-story.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/af-clement.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/af-clement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/af-ignatius-of-antioch.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/af-ignatius-of-antioch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/af-polycarp.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/af-polycarp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/ancient-historians.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/ancient-historians.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/apostolic-fathers-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/apostolic-fathers-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/cf-jerome.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/cf-jerome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/church-fathers.introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/church-fathers.introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/emperor-trajan.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/emperor-trajan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/extra-biblical-sources.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/extra-biblical-sources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/flavius-josephus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/flavius-josephus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/government-officials.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/government-officials.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/hadrian.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/hadrian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/historicity-of-jesus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/historicity-of-jesus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/jewish-sources.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/jewish-sources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/lucian-of-samosata.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/lucian-of-samosata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/mara-bar-serapion.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/mara-bar-serapion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/non-jewish-sources.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/non-jewish-sources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/pliny-the-younger.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/pliny-the-younger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/suetonius.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/suetonius.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/tacitus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/tacitus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/thallus.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/thallus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-didache.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-didache.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-shepherd-of-hermas.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/historicity/writings-shepherd-of-hermas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/jesus/jesus-intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/jesus/jesus-intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-ad-hominem.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-ad-hominem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-affirming-the-consequent.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-affirming-the-consequent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-appeal-to-ignorance.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-appeal-to-ignorance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-causal-fallacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-causal-fallacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-circular-argument.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-circular-argument.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-elephant-hurling.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-elephant-hurling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-false-dilemma.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-false-dilemma.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-hasty-generalization.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-hasty-generalization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-red-herring.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-red-herring.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-slippery-slope.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-slippery-slope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-straw-men.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-straw-men.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-tu-quoque.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-tu-quoque.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-are-miracles-pure-fantasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-are-miracles-pure-fantasy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-goodness-without-god.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-goodness-without-god.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-gunning-for-god-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-gunning-for-god-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-atheism-poisonous.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-atheism-poisonous.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-religion-poisonous.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-religion-poisonous.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-the-god-of-the-bible-a-despot.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-the-god-of-the-bible-a-despot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-john-lennox-gunning-for-god.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-john-lennox-gunning-for-god.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-reason-science-vs-god-and-faith.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-reason-science-vs-god-and-faith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-whats-new-atheism.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-whats-new-atheism.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-why-the-aggression.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-why-the-aggression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bar/purpose.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/purpose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.yml" beforeDir="false" afterPath="$PROJECT_DIR$/site.yml" afterDir="false" />
-    </list>
+    <list default="true" id="aefcf7f1-0bb9-4ee0-af18-514be3f88bad" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -95,6 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,6 +68,7 @@
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" />
         <option value="$PROJECT_DIR$/site.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -167,11 +95,6 @@
               <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
               <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
               <item name="branding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
-              <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +159,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34536000" />
+    <option name="totallyTimeSpent" value="34614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="2560" height="1573" extended-state="6" />
@@ -540,6 +463,13 @@
             <caret line="25" selection-start-line="25" selection-end-line="25" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
