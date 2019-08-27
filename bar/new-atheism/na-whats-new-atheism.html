@@ -331,8 +331,8 @@
 </nav>
   <div class="edit-this-page"><a href="https://github.com/jcayouette/belief-and-reason/edit/master/modules/new-atheism/pages/na-whats-new-atheism.adoc">Edit this Page</a></div>
 </div>
-<article class="doc">
-<h1>What is New About the New Atheists?</h1>
+<article class="doc"><a name="section-top"></a>
+<h1 class="page">What is New About the New Atheists?</h1>
 <div class="paragraph">
 <p>In his book <em>Gunning for God Why the New Atheists are Missing the Target</em>,  Emeritus professor of Mathematics at Oxford John Lennox describes New Atheism and explains the change in mindset and aggression.</p>
 </div>
@@ -375,6 +375,10 @@
 </div>
 </div>
 </article>
+<aside class="article-aside hidden" role="navigation">
+  <h3 class="toc-title">On This Page</h3>
+  <div id="article-toc"></div>
+</aside>
 </main>
 </div>
 <!-- <footer class="footer">
@@ -395,7 +399,23 @@ search.on('autocomplete:closed', function () { search.autocomplete.setVal() });
 focusSearchInput();
 window.addEventListener('load', focusSearchInput)
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.min.js"></script>
 <script src="../../_/js/site.js"></script>
-<script async src="../../_/js/vendor/highlight.js"></script>
+<script src="../../_/js/vendor/highlight.js"></script>
+<script>hljs.initHighlighting()</script>
+<script>
+  tocbot.init( {
+    tocSelector: '#article-toc',
+    contentSelector: 'article',
+    headingSelector: 'h2, h3, h4, h5, h6',
+    collapseDepth: 6,
+    positionFixedSelector: '#article-toc',
+    scrollSmooth: false
+  } );
+  var tocList = document.getElementById( 'article-toc' ).getElementsByClassName( 'toc-list' );
+  if ( tocList && tocList.length > 0 && tocList[0].childNodes.length > 0 ) {
+    document.getElementById( 'article-toc' ).parentNode.classList.remove( 'hidden' );
+  }
+</script>
   </body>
 </html>
