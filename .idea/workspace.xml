@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aefcf7f1-0bb9-4ee0-af18-514be3f88bad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/branding/ui-bundle.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/objects/pack/pack-2aa7796b44a9f29c494dda44b583e3ac5d9d09f5.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/objects/pack/pack-2aa7796b44a9f29c494dda44b583e3ac5d9d09f5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/gh-pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/refs/remotes/origin/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/content/2/belief-and-reason-a063fd960c4a37d3d110d1bf5c542ca0ddb64b96.git/shallow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/antora/ui/88c6429e9c29a675bbb4686e403e1870e69cbccd.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/_/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/_/js/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/_/js/vendor/highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/_/js/vendor/highlight.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/big-bang/big-bang-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/big-bang/big-bang-introduction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/big-bang/dismantling-the-big-bang.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/big-bang/dismantling-the-big-bang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/book-reviews/intro/br-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/book-reviews/intro/br-introduction.html" afterDir="false" />
@@ -57,6 +71,7 @@
       <change beforePath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-tu-quoque.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/logical-fallacy/lf-tu-quoque.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-are-miracles-pure-fantasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-are-miracles-pure-fantasy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-goodness-without-god.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-goodness-without-god.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-gunning-for-god-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-gunning-for-god-introduction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-introduction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-atheism-poisonous.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-atheism-poisonous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-is-religion-poisonous.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-is-religion-poisonous.html" afterDir="false" />
@@ -67,7 +82,7 @@
       <change beforePath="$PROJECT_DIR$/build/bar/new-atheism/na-why-the-aggression.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/new-atheism/na-why-the-aggression.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/bar/purpose.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/bar/purpose.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.yml" beforeDir="false" afterPath="$PROJECT_DIR$/site.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,50 +95,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/site.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -148,7 +124,6 @@
         <option value="$PROJECT_DIR$/modules/logical-fallacy/pages/affirming-the-consequent.adoc" />
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/branding/supplemental-ui/bar/partials/footer-content.hbs" />
-        <option value="$PROJECT_DIR$/site.yml" />
         <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc" />
         <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/extra-biblical-sources.adoc" />
         <option value="$PROJECT_DIR$/modules/jesus/pages/historicity/suetonius.adoc" />
@@ -165,11 +140,13 @@
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc" />
         <option value="$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc" />
+        <option value="$PROJECT_DIR$/site.yml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2351" />
+    <option name="y" value="462" />
     <option name="width" value="1680" />
     <option name="height" value="961" />
   </component>
@@ -189,20 +166,12 @@
             <path>
               <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
               <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="branding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
               <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="new-atheism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="belief-and-reason" type="b2602c69:ProjectViewProjectNode" />
-              <item name="belief-and-reason" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="new-atheism" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,16 +183,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules/big-bang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../antora-ui-default" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/branding" />
       <recent name="$PROJECT_DIR$/modules/big-bang" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modules/big-bang" />
     </key>
   </component>
@@ -261,16 +231,17 @@
       <workItem from="1562279558748" duration="36000" />
       <workItem from="1562279628729" duration="269000" />
       <workItem from="1562303974184" duration="19610000" />
+      <workItem from="1566939911380" duration="3059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31477000" />
+    <option name="totallyTimeSpent" value="34536000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="961" extended-state="0" />
+    <frame x="1920" y="27" width="2560" height="1573" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23687424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15580286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +253,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32942554" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.1641266" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34313726" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -445,13 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/antora.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -519,16 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/jesus/pages/historicity/tacitus.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -549,20 +503,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc">
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
+          <first_editor relative-caret-position="36">
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-gunning-for-god-introduction.adoc">
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-john-lennox-gunning-for-god.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
+          <first_editor relative-caret-position="90">
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
@@ -572,10 +526,27 @@
     <entry file="file://$PROJECT_DIR$/modules/new-atheism/nav-new-atheism.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <first_editor relative-caret-position="306">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/new-atheism/pages/na-why-the-aggression.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="774">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
