@@ -2,7 +2,6 @@ ifndef::backend-pdf[]
 
 * xref:index.adoc[Welcome]
 * xref:purpose.adoc[Purpose]
-
 endif::[]
 
 // PDF ROOT Test
